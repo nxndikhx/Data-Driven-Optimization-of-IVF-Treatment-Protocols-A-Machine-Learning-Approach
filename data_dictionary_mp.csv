@@ -1,0 +1,14 @@
+Column Name,Data Type,Description
+Patient number,int64,Unique identifier for each patient
+Idiopathic RM,int64,Presence of recurrent miscarriage with no identified cause
+Age,int64,Age of the patient
+AMH,float64,"Anti-Müllerian Hormone level, indicating ovarian reserve"
+FSH,float64,"Follicle Stimulating Hormone level, important for ovarian function"
+LH,float64,"Luteinizing Hormone level, crucial for ovulation and egg maturation"
+Number of miscarriages,int64,Total number of miscarriages experienced by the patient
+Estradiol,int64,"Level of Estradiol hormone, important for follicular development"
+Diabetes,int64,Presence of diabetes
+Hypothyroidism,int64,Presence of hypothyroidism
+Hyperthyroidism,int64,Presence of hyperthyroidism
+Thrombophilic defects,int64,Presence of blood clotting disorders
+APS,int64,Presence of Antiphospholipid Syndrome
